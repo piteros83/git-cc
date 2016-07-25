@@ -19,3 +19,4 @@ git branch -d [branch_name]: Deletes the branch specified
 git clone [remote_location] [clone_name]: cloning repo from location and store it under different location
 git remote -v: to list the remotes repos
 git fetch: get the latest project changes
+git push origin [your_branch_name]: will push your branch up to the remote, origin. From there, Sally can review your branch and merge your work into the master branch, making it part of the definitive project version.
